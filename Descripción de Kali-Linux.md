@@ -4,5 +4,6 @@ Trae preinstalados más de 600 de programas, entre los que se incluye Nmap(un es
 ## Formato de distribución
 Es desarrollado en entorno seguro y se distribuye en imágenes ISO compiladas para diferentes arquitecturas (32/64 bits y ARM).
 ## Referencias
-.[Wikipedia](https://es.wikipedia.org/wiki/Kali_Linux)
-.[Web Oficial Kali Linux](https://www.kali.org)
+[Wikipedia](https://es.wikipedia.org/wiki/Kali_Linux)
+
+[Web Oficial Kali Linux](https://www.kali.org)
